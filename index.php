@@ -1,6 +1,6 @@
 <?php
-$token = "توكن من بوت @botfather";
-$admin = ايديك;
+$token = "5081834242:AAFrjhfprZd3xR01wjQGQSHrLFm7zw8paBI";
+$admin = 911000886;
 if(isset($_POST['submit'])){
 $url = $_POST['url'];
 $videoid = $url;
